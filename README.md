@@ -3,7 +3,7 @@
 
 # Instalation
 **To install this app:
-1. Download (node.js)[https://nodejs.org/en]
+1. Download (node.js)[https://nodejs.org/en]**
 **2. Open CMD**
 **3. CD in to the project**
 **4. Use ``npm i``**
